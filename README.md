@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/neko-playgrounds-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/neko-playgrounds.svg">
     <source media="(prefers-color-scheme: light)" srcset="img/neko-playgrounds-light.svg">
     <img src="img/neko-playgrounds-light.svg" style="width: 40%; height: 40%;" alt="neko logo">
 </picture>
