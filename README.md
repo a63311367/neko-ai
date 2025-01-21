@@ -2,7 +2,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/neko-playgrounds.svg">
     <source media="(prefers-color-scheme: light)" srcset="img/neko-playgrounds.svg">
-    <img src="img/neko-playgrounds.svg" style="width: 40%; height: 40%;" alt="neko logo">
+    <img src="img/neko-playgrounds.svg" style="width: 40%; height: 40%;max-width:30%"" alt="neko logo">
 </picture>
 <br>
 <a href="https://docs.neko.rs"><img src="https://img.shields.io/badge/📖 docs-neko.rs-dca282.svg" /></a> &nbsp;
