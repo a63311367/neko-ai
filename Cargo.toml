@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "neko-core", "neko-lancedb",
+    "neko-mongodb", "neko-neo4j",
+    "neko-qdrant", "neko-core/neko-core-derive",
+    "neko-sqlite"
+]
